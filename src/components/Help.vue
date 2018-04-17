@@ -7,7 +7,6 @@
 </template>
 
 <script>
-import Main from './Main';
 import {bus} from '../main';
 
 export default {
