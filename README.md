@@ -1,6 +1,6 @@
 # simplewebpack
 
-> A Vue.js project
+> I tried to $emit data from 'Main' Single file component by using Global event bus, and read it in another Single file component/route called 'Help'. But while emitted data is registered in the <root> and shown in 'Main' component, I cannot display it in 'Help' component.
 
 ## Build Setup
 
